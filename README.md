@@ -5,7 +5,7 @@ Google oauth2 credential using Flask
 This code is used to test google's authentication/authorisation
 mechanism. 
 
-The code only retreives userinfo profile, whic can be used for
+The code only retrieves user-info profile, which can be used for
 authenticate the use to another service.
 
 ## Source
@@ -31,7 +31,7 @@ $ venv/bin/pip3 install --upgrade flask
 $ venv/bin/pip3 install --upgrade google-api-python-client
 ```
 
-Note that the client-secret.json must be installd in the 'secrets'
+Note that the client-secret.json must be installed in the 'secrets'
 directory
 
 # Run
@@ -40,6 +40,9 @@ $ venv/bin/python3 get_oauth2_credential.py
 ```
 
 On a browser try [localhost:5000](http://localhost:5000/index)
+
+# Result
+![it works!][hyppy]
 
 ## Licence
 Google distributed its code with a Apache2.0 licence, which I've kept.
