@@ -42,7 +42,7 @@ $ venv/bin/python3 get_oauth2_credential.py
 On a browser try [localhost:5000](http://localhost:5000/index)
 
 # Result
-![it works!][hyppy]
+![it works!](https://github.com/maufia/google-oauth2/blob/master/hyppy.png)
 
 ## Licence
 Google distributed its code with a Apache2.0 licence, which I've kept.
