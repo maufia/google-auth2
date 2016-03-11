@@ -31,7 +31,7 @@ $ venv/bin/pip3 install --upgrade flask
 $ venv/bin/pip3 install --upgrade google-api-python-client
 ```
 
-Note that the client-secret.json must be installd in the 'secrets'
+Note that the **client-secret.json** file must be installd in the 'secrets'
 directory
 
 # Run
